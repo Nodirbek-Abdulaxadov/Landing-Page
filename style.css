@@ -113,3 +113,18 @@ header {
     display: flex;
     justify-content: center;
 }
+
+.user-icon {
+  width: 65px;
+  height: 65px;
+  margin: 32px 0 0 20px;
+}
+
+.span1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.margin-t {
+  margin-top: 36px;
+}
